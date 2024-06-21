@@ -1,0 +1,10 @@
+/Debug/
+
+*.d
+*.o
+*.su
+*.mk
+*.ld
+*.ldt
+*.log
+*.asc

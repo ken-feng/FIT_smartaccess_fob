@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "D:\SW_Program\Aeon_SW\FIT_smartaccess_fob\Debug\FIT_smartaccess_fob.hex"
+qc
+
+qc
